@@ -52,11 +52,10 @@ The analysis follows these main steps:
 ## Limitations
 - Analysis is based on secondary or provided data
 - Limited scope and time constraints
+- No inference about political intent, effectiveness, or outcomes
 
 ## Author
   Pritha Banerjee
-- No inference about political intent, effectiveness, or outcomes
+  
 
----
 
-## Repository Structure
